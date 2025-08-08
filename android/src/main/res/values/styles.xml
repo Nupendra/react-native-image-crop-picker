@@ -5,4 +5,4 @@
         <item name="android:windowMinWidthMinor">100%</item>
         <item name="android:windowContentOverlay">@null</item>
     </style>
-</resources>
+</resources> 
